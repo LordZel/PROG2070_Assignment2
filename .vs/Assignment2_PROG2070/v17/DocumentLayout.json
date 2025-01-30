@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aDMIN\\Downloads\\Assignment2_PROG2070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFD4C7E-5E26-4048-BDE8-86F8C1FA81C7}|Assignment2_PROG2070\\Assignment2_PROG2070.csproj|c:\\users\\admin\\downloads\\assignment2_prog2070\\assignment2_prog2070\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFD4C7E-5E26-4048-BDE8-86F8C1FA81C7}|Assignment2_PROG2070\\Assignment2_PROG2070.csproj|solutionrelative:assignment2_prog2070\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFD4C7E-5E26-4048-BDE8-86F8C1FA81C7}|Assignment2_PROG2070\\Assignment2_PROG2070.csproj|c:\\users\\admin\\downloads\\assignment2_prog2070\\assignment2_prog2070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFD4C7E-5E26-4048-BDE8-86F8C1FA81C7}|Assignment2_PROG2070\\Assignment2_PROG2070.csproj|solutionrelative:assignment2_prog2070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\aDMIN\\Downloads\\Assignment2_PROG2070\\Assignment2_PROG2070\\Products.cs",
+              "RelativeDocumentMoniker": "Assignment2_PROG2070\\Products.cs",
+              "ToolTip": "C:\\Users\\aDMIN\\Downloads\\Assignment2_PROG2070\\Assignment2_PROG2070\\Products.cs",
+              "RelativeToolTip": "Assignment2_PROG2070\\Products.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:27:31.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aDMIN\\Downloads\\Assignment2_PROG2070\\Assignment2_PROG2070\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2_PROG2070\\Program.cs",
+              "ToolTip": "C:\\Users\\aDMIN\\Downloads\\Assignment2_PROG2070\\Assignment2_PROG2070\\Program.cs",
+              "RelativeToolTip": "Assignment2_PROG2070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:23:38.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
